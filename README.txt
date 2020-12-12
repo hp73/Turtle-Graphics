@@ -1,5 +1,5 @@
 Project 7 - Turtle Graphics
-CSCI 101 Fall 2018
+CSCI 111 Fall 2018
 By Harry Pinkerton and Justin Park
 Required to run: python 3.7
 
